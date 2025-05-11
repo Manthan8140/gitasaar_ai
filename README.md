@@ -22,11 +22,10 @@
    ```
 
 2. **Create a .env file:**
-
-env
-```
-OPENROUTER_API_KEY=your_openrouter_api_key_here
-```
+   env
+   ```
+   OPENROUTER_API_KEY=your_openrouter_api_key_here
+   ```
 
 3. **Install dependencies:**
   ```bash
